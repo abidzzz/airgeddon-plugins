@@ -21,8 +21,14 @@ This repository contains custom plugins for [Airgeddon](https://github.com/v1s1t
 | `sort_targets.sh` | Target sorting/filtering | [KeyofBlueS/airgeddon-plugins](https://github.com/KeyofBlueS/airgeddon-plugins) |
 
 ## Usage
+
+### Option 1: Manual
 Just download and copy the plugin file to the plugins folder inside airgeddon directory. Please do not rename any plugin file. After copying the file, just run airgeddon as you normally would and the plugin will do its job.
 
+### Option 2: Auto-install
+
+chmod +x move.sh
+./move.sh
 
 ## 📄 License
 
