@@ -28,6 +28,7 @@ Just download and copy the plugin file to the plugins folder inside airgeddon di
 ### Option 2: Auto-install
 
 chmod +x move.sh
+
 ./move.sh
 
 ## 📄 License
