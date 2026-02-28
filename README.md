@@ -3,8 +3,8 @@
 
 A collection of custom plugins for Airgeddon to extend wireless auditing capabilities.
 
-[![GitHub](https://img.shields.io/badge/ GitHub-Repository-blue.svg)](https://github.com/xpz3/airgeddonplugins)
 [![Airgeddon](https://img.shields.io/badge/Airgeddon-WiFi%20Auditing%20Framework-green.svg)](https://github.com/v1s1t0r1sh3r3/airgeddon)
+
 
 ## 📋 Overview
 
